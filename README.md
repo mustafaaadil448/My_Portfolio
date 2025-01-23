@@ -18,9 +18,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Aadil Portfolio Desktop Demo](./readme-images/projectssc.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -35,19 +32,20 @@ To run **Aadil-portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+sudo git clone https://github.com/mustafaaadil448/My_Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git git clone 
+git:  git clone 
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://x.com/MustafaAadil448).
+If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/md-mustafa-ansari-35b6a122b).
 
 ### License
 
 This project is **free to use** and does not contains any license.
+
