@@ -1,0 +1,233 @@
+Aadil - personal portfolio
+
+# HEDER
+
+Aadil.
+
+En
+Ar
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Portfolio.
+Contact.
+
+
+
+# HERO
+
+alt = A man in a blue shirt with a happy expression
+
+We Design & Build Creative Products
+
+Get in touch
+
+<ion-icon name="logo-github"></ion-icon>
+Facebook
+
+<ion-icon name="logo-leetcode"></ion-icon>
+Twitter
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+3rd
+year Student
+
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+10+
+Completed Projects
+
+alt = Peoples rating icon
+
+95+
+Profile Viewrs
+
+
+
+# ABOUT
+
+alt = A man in a alice blue shirt with a thinking expression
+
+About me
+
+Need a Creative Product? I can Help You!
+
+Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+
+Hire me
+
+Download cv
+
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+JavaScript
+alt = JavaScript logo
+
+TypeScript
+alt = TypeScript logo
+
+Bootstrap
+alt = Bootstrap logo
+
+NodeJs
+alt = NodeJs logo
+
+ExpressJs
+alt = ExpressJs logo
+React
+alt = React logo
+
+Tools
+
+Git
+alt = Git logo
+
+Npm
+alt = Npm logo
+
+Command Line
+alt = Command Line logo
+
+VS Code
+alt = VS Code logo
+
+Github
+alt = Github logo
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+alt = Game.
+Simon Says Game 01
+January 2025
+
+alt = Music Player.
+Spotify Music Player 02
+
+alt = Blogging.
+Trent Blogging 03
+
+
+alt = Starbucks Website.
+Starbucks 04
+
+
+alt = Shopping.
+E-commerce Website 05
+
+alt = FTS Shopping.
+FTS Website Order Status 06
+
+alt = Studio.
+Apna Studio 07
+
+alt = Order track status.
+FTS website order track 08
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+Mahal,Road,Jagarpura, Near Suresh Gyan Vihar University,302017
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+(+91) 7209591789
+(+91) 8210545791
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+mustafaaadil720@gmail.com
+mdmustafa8210@gmail.com
+
+<ion-icon name="logo-Github"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-Instagram"></ion-icon>
+<ion-icon name="logo-leetcode"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g John Doe
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g johndoe@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Aadil.
+
+&copy; 2025 codewithaadil. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
