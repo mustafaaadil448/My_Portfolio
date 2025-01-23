@@ -2,7 +2,6 @@
 
 <div align="center">
   
-  ![GitHub repo size](https://github.com/mustafaaadil448/My_Portfolio)
 
   <br />
   <br />
